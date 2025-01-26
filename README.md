@@ -1,4 +1,4 @@
-<h2 align="left">Oiiie👋! Eu me chamo Marília e eu sou estudante de Análise e Desenvolvimento de Sistemas, sou do Nordeste, Recife - Pernambuco.</h2>
+<h2 align="left">Oiiie👋! Podem me chamar de Mauri, tenho 24 anos, com formação técnica em Computação Gráfico, e atualmente, estudante de Análise e Desenvolvimento de Sistemas, sou do Nordeste, Recife - Pernambuco. Sejam bem-vindes!</h2>
 
 ###
 
