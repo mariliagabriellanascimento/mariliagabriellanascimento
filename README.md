@@ -1,4 +1,4 @@
-<h2 align="left">Oiiie👋! Podem me chamar de Mauri, tenho 24 anos, com formação técnica em Computação Gráfico, e atualmente, estudante de Análise e Desenvolvimento de Sistemas, sou do Nordeste, Recife - Pernambuco. Sejam bem-vindes!</h2>
+<h2 align="left">Oiiie!👋 Podem me chamar de Mauri. Tenho 24 anos, formação técnica em Computação Gráfica e, atualmente, sou estudante de Análise e Desenvolvimento de Sistemas. Estou me preparando para atuar como desenvolvedore Front-End, com foco em criar designs acessíveis e inclusivos. Por último, mas não menos importante, sou do Nordeste, Recife - Pernambuco. Sejam todes bem-vindes!</h2>
 
 ###
 
